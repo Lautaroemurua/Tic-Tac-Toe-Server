@@ -1,0 +1,34 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe Game in NodeJs And Angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautaroemurua/Tic-Tac-Toe.git"
+  },
+  "keywords": [
+    "Tic-Tac-Toe",
+    "Game",
+    "API-REST",
+    "NodeJs",
+    "Angular"
+  ],
+  "author": "Lautaro Murua",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "body-parser": "1.18.2 ",
+    "cors": "2.8.4",
+    "express": "4.16.2",
+    "redis": "2.8.0",
+    "socket.io": "2.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Lautaroemurua/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/Lautaroemurua/Tic-Tac-Toe#readme"
+}
